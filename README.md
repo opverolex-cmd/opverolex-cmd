@@ -55,11 +55,11 @@
 <br>
 
 <!-- Optional: drop in an anime image or gif. Red and black art suits the theme. -->
-
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHpzYndudnB1dGxwdGxpZTQzY3J6cWxoeWlxbm4zenlwNW9nMGRzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5GrNOi29Ol3WmhwlIj/giphy.gif" width="320" alt="Anime maid Ellen dance from Zenless Zone Zero" />
+  <img width="2205" height="500" alt="lock screen" src="https://github.com/user-attachments/assets/289cc642-5019-440a-9f3a-ed1573d93b15" />
 </div>
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B71C1C,100:0D0D0D&height=60&section=footer" width="100%" alt="footer" />
+
+
